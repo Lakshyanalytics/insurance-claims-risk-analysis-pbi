@@ -1,4 +1,4 @@
-# Insurance Claims & Policyholder Risk Analysis (Power BI)
+# Insurance Claims and Policyholder Risk Analysis (Power BI)
 
 This Power BI dashboard provides insights into insurance claims and policyholder risk.  
 It helps identify high-risk customers, analyze claims patterns, and assess premium adjustments.
