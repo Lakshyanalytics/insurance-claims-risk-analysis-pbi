@@ -49,5 +49,11 @@ DIVIDE (
     0
 )
 ```  
+## 🔎 Key Insights from the Dashboard
 
-Hi
+- **Urban region dominates** with ~47% of all policyholders, followed by Suburban (~30%) and Rural (~20%).  
+- **Low severity claims** make up ~70% of all cases, Medium ~20%, and High ~10%.  
+- **Average claim amount** is ~74 per claim, with total adjustments reaching **368K**.  
+- **Younger and middle-aged groups (25–45 years)** show higher claim frequencies, especially with Low and Medium severity.  
+- **Premium vs claims** scatter shows that higher premium policyholders do not necessarily have higher claim frequencies.  
+- **Marital status distribution** shows risk is spread across groups, but widowed and divorced policyholders tend to have smaller shares.  
