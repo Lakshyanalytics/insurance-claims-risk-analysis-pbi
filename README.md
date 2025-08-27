@@ -31,6 +31,7 @@ It helps identify high-risk customers, analyze claims patterns, and assess premi
 ---
 
 ## 🧮 DAX Measures
+
 ```DAX
 Total Claims =
 SUM ( 'synthetic_insurance_data'[Claims_Frequency] )
@@ -48,7 +49,6 @@ DIVIDE (
     0
 )
 
----
 
 ## 🔎 Key Insights from the Dashboard
 
