@@ -48,14 +48,7 @@ DIVIDE (
     0
 )
 
-.
-├─ data/
-│  └─ synthetic_insurance_data.csv
-├─ pbix/
-│  └─ insurance-claims-risk-analysis.pbix
-├─ images/
-│  └─ dashboard.png
-└─ README.md
+---
 
 ## 🔎 Key Insights from the Dashboard
 
