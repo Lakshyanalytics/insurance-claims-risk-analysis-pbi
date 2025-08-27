@@ -47,7 +47,7 @@ DIVIDE (
     SUM ( 'synthetic_insurance_data'[Claims_Adjustment] ),
     SUM ( 'synthetic_insurance_data'[Claims_Frequency] ),
     0
-)
+)```
 
 
 ## 🔎 Key Insights from the Dashboard
